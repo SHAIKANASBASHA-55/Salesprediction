@@ -58,20 +58,6 @@
 
 ---
 
-## 🎥 Demo
-
-> 📸 Screenshots of the dashboard, forecast charts, and SHAP analysis
-
-<p align="center">
-  <img src="assets/forecast.png" alt="Forecast Chart" width="700"/>
-</p>
-
-<p align="center">
-  <img src="assets/shap.png" alt="SHAP Importance" width="700"/>
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 **Backend**
